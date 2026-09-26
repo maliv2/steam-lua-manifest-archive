@@ -1,0 +1,2 @@
+# Ignore downloads while they are being written atomically.
+*.tmp
