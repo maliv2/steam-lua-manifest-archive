@@ -6,6 +6,16 @@ Find available files for a specific game or explore the collection in one place.
 
 [Browse the archive](https://github.com/maliv2/steam-lua-manifest-archive/tree/main/archive)
 
+<!-- archive-stats:start -->
+### Archive at a glance
+
+| AppIDs | Lua files | Manifest files | Total size |
+| :---: | :---: | :---: | :---: |
+| **16,455** | **16,363** | **40,773** | **11.69 GiB** |
+
+<sub>12,552,690,308 bytes of archive files. Git history is excluded.</sub>
+<!-- archive-stats:end -->
+
 ### What you'll find
 
 - Steam Lua files
