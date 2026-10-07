@@ -4,6 +4,8 @@ A collection of Steam **Lua scripts** and **manifest files**, organized by AppID
 
 Find available files for a specific game or explore the collection in one place.
 
+[Browse the archive](https://github.com/maliv2/steam-lua-manifest-archive/tree/main/archive)
+
 ### What you'll find
 
 - Steam Lua files
