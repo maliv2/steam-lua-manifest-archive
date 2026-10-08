@@ -11,9 +11,9 @@ Find available files for a specific game or explore the collection in one place.
 
 | AppIDs | Lua files | Manifest files | Total size |
 | :---: | :---: | :---: | :---: |
-| **17,201** | **17,108** | **42,646** | **12.37 GiB** |
+| **17,372** | **17,280** | **43,112** | **12.50 GiB** |
 
-<sub>13,286,026,833 bytes of archive files. Git history is excluded.</sub>
+<sub>13,424,205,157 bytes of archive files. Git history is excluded.</sub>
 <!-- archive-stats:end -->
 
 ### What you'll find
